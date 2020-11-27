@@ -1,0 +1,109 @@
+﻿@using Sewing.Models.ViewModel;
+@model DataViewModel<SewingStudio.Models.Employee>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<input id="FilterValue" type="text" onchange='setCookie("Filter", this.value)'>
+<a asp-action="Index" asp-controller="Employees" asp-route-page="1" class="page-link">Filter</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().AtelierDepartment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().Telephone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Data)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AtelierDepartment.DepartmentName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Position)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telephone)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdEmployee">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdEmployee">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdEmployee">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <ul class="pagination">
+        @{
+            var minval = Model.CurrentPage - 5 > 1 ? Model.CurrentPage - 5 : 1;
+            if (minval > 1)
+            {
+                <li class="page-item">
+                    <a asp-action="Index" asp-controller="Employees" asp-route-page="1" class="page-link">1</a>
+                </li>
+            }
+        }
+
+        @for (var i = 0; i < 10 && minval <= Model.PageCount; i++, minval++)
+        {
+
+            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                <a asp-action="Index" asp-controller="Employees" asp-route-page=@(minval) class="page-link">@minval</a>
+            </li>
+        }
+        @if (minval < Model.PageCount)
+        {
+            <li class="page-item">
+                <a asp-action="Index" asp-controller="Employees" asp-route-page=@Model.PageCount class="page-link">@Model.PageCount</a>
+            </li>
+        }
+    </ul>
+</div>
+
+<script>
+    function setCookie(cname, cvalue) {
+  document.cookie = cname + "=" + encodeURIComponent(cvalue);
+}
+
+    function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return decodeURIComponent(c.substring(name.length, c.length));
+    }
+  }
+  return "";
+}
+    document.getElementById("FilterValue").value = getCookie("Filter"); 
+    setCookie("Filter", getCookie("Filter"), 1);
+    </script>

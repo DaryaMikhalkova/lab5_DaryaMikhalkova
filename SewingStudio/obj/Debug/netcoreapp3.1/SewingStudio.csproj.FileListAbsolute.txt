@@ -1,0 +1,671 @@
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.exe
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.deps.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.dev.json
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.pdb
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Даша курсач РПБДИС\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csprojAssemblyReference.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csproj.CoreCompileInputs.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfoInputs.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfo.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.input.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.output.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorCoreGenerate.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cache
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cs
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csproj.CopyComplete
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.dll
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.pdb
+E:\Даша курсач РПБДИС\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.genruntimeconfig.cache
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.exe
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.deps.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.dev.json
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.pdb
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\курсоваяБД\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csprojAssemblyReference.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfoInputs.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfo.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.input.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.output.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorCoreGenerate.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cache
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cs
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csproj.CopyComplete
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.dll
+E:\курсоваяБД\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.pdb
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.exe
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.deps.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.runtimeconfig.dev.json
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.pdb
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csprojAssemblyReference.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfoInputs.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfo.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.input.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.output.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorCoreGenerate.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\AtelierDepartments\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\MaterialSupplies\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Materials\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Roles\UserList.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cache
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorTargetAssemblyInfo.cs
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.Views.pdb
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csproj.CopyComplete
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.dll
+E:\5 семестр\РПБДИС\Лаба5\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.pdb
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csprojAssemblyReference.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfoInputs.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.AssemblyInfo.cs
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.csproj.CoreCompileInputs.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.RazorAssemblyInfo.cs
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.TagHelpers.input.cache
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.dll
+C:\Users\Сибирко Валерий\Desktop\SewingStudio\obj\Debug\netcoreapp3.1\SewingStudio.pdb

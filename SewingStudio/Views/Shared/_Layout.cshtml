@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sewing Studio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <a asp-controller="Home" asp-action="Index">
+            <center><span class="symbol"><img src="images/logo1.jpg" alt="" /></span></center>
+        </a>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Администратор") || User.IsInRole("Работник"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Materials" asp-action="Index"><input type="button" style="height:50px;width:100px" value="Материалы"></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index"><input type="button" style="height:50px;width:100px" value="Изделия"></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="MaterialSupplies" asp-action="Index"><input type="button" style="height:50px;width:180px" value="Поставка материалов"></a>
+                                </li>
+
+                                if (User.IsInRole("Администратор"))
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Employees" asp-action="Index"><input type="button" style="height:50px;width:100px" value="Работники"></a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="AtelierDepartments" asp-action="Index"><input type="button" style="height:50px;width:150px" value="Отделы ателье"></a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                            <input type="button" style="height:50px;width:180px" value="Панель управления" />
+                                            <span class="caret"></span>
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a asp-controller="Roles" asp-action="Index"><input type="button" style="height:50px;width:220px" value="Изменение ролей" /></a></li>
+                                            <li><a asp-controller="Roles" asp-action="UserList"><input type="button" style="height:50px;width:220px" value="Изменение прав доступа" /></a></li>
+                                            <li><a asp-controller="Users" asp-action="Index"><input type="button" style="height:50px;width:220px" value="Изменение пользователей" /></a></li>
+                                        </ul>
+                                    </li>
+                                }
+                            }
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Orders" asp-action="Index"><input type="button" style="height:50px;width:100px" value="Заказы"></a>
+                            </li>
+                        }
+                        <li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <p>@User.Identity.Name</p>
+
+                                <form method="post" asp-controller="Account" asp-action="Logout">
+                                    <input type="submit" value="Выход" />
+                                </form>
+                            }
+                            else
+                            {
+                                <a asp-controller="Account" asp-action="Login"><input type="button" style="height:50px;width:130px" value="Вход"></a>
+                                <a asp-controller="Account" asp-action="Register"><input type="button" style="height:50px;width:130px" value="Регистрация"></a>
+                            }
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - SewingStudio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

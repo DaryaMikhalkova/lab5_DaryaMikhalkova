@@ -1,0 +1,83 @@
+﻿@using Sewing.Models.ViewModel;
+@model DataViewModel<SewingStudio.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().Material.MaterialName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().NumberOfMaterialsPerItem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data.First().ProductPrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Data)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Material.MaterialName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberOfMaterialsPerItem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductPrice)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdProduct">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdProduct">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdProduct">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <ul class="pagination">
+        @{
+            var minval = Model.CurrentPage - 5 > 1 ? Model.CurrentPage - 5 : 1;
+            if (minval > 1)
+            {
+                <li class="page-item">
+                    <a asp-action="Index" asp-controller="Products" asp-route-page="1" class="page-link">1</a>
+                </li>
+            }
+        }
+
+        @for (var i = 0; i < 10 && minval <= Model.PageCount; i++, minval++)
+        {
+
+            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                <a asp-action="Index" asp-controller="Products" asp-route-page=@(minval) class="page-link">@minval</a>
+            </li>
+        }
+        @if (minval < Model.PageCount)
+        {
+            <li class="page-item">
+                <a asp-action="Index" asp-controller="Products" asp-route-page=@Model.PageCount class="page-link">@Model.PageCount</a>
+            </li>
+        }
+    </ul>
+</div>
